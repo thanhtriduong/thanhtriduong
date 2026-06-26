@@ -22,7 +22,7 @@
 
 ## 💻 Languages & Tools
 
-<p align="left">
+<p align="left"> 
 
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=python,numpy,pandas,pytorch,tensorflow,scikitlearn,huggingface,fastapi,streamlit,docker)](https://github.com/thuongtruong109/icoziv)
 
